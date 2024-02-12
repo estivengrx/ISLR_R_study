@@ -1,6 +1,7 @@
 # Importing libraries
 library('MASS')
 library('ISLR2')
+library('ggplot2')
 
 # Overview of the Boston dataset and plotting the lstat and medv columns
 head(Boston)
